@@ -1,4 +1,5 @@
-📊 Estudo de Ciência de Dados
+### 📊 Estudo de Ciência de Dados
+---
 Bem-vindo ao repositório de estudos em Ciência de Dados! Este espaço foi criado para organizar e compartilhar projetos, estudos e anotações relacionados a estatística, aprendizado de máquina, visualização de dados e mais.
 
 
